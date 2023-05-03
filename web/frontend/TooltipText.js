@@ -1,0 +1,13 @@
+export const UserName = "User Name Tip";
+export const Password = "Password Tip";
+export const ServiceType = "Service Type Tip";
+export const ConsigneeInformation = "Consignee Information Tip";
+export const Name = "Name Tip";
+export const Email = "Email Tip";
+export const Customization = "Customization Tip";
+export const InvoiceTitle = "Invoice Title Tip";
+export const InvoiceFooter = "Invoice Footer Tip";
+export const FbUrl = "Fb Page Url Tip";
+export const FbTitle = "Fb Page Title Tip";
+export const AdvancedCustomization = "Advaced Customization Tip";
+export const CombinedSettings = "Combined nvoice Settings Tip";
